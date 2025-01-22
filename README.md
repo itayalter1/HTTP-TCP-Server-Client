@@ -33,6 +33,14 @@ python3 tcp_client.py [SERVER_IP] [PORT]
 
 ## run Methods 🔄
 
+### Clone Poject
+```bash
+git clone https://github.com/itayalter1/HTTP-TCP-Server-Client.git
+```
+```bash
+cd DNS-Resolver-and-Server
+```
+
 ### 1. Python Client 🐍
 ```bash
 # Request a file from subdirectory
